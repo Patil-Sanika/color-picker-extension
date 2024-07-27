@@ -2,6 +2,7 @@
     "name": "Cool Color Picker",
     "version": "1.0",
     "description": "A simple color picker Chrome extension.",
+    "author":"Sanika Patil",
     "permissions": [
       "activeTab",
       "clipboardWrite"
