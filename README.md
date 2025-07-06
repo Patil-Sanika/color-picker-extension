@@ -11,10 +11,10 @@ Features
 
  ##View   
  ![Home Page](public/image1.jpg)
- ![](public/image1.jpg)
- ![](public/image2.jpg)
- ![](public/image3.jpg)
- ![](public/image4.jpg)
+ ![](image1.jpg)
+ ![](image2.jpg)
+ ![](image3.jpg)
+ ![](image4.jpg)
 
 Installation
     1.Clone or download this repository:
