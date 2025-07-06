@@ -9,6 +9,13 @@ Features
     * Preview the selected color.
     * Copy the color value to the clipboard with a single click.
 
+ ##View   
+ ![Home Page](public/image1.jpg)
+ ![](public/image1.jpg)
+ ![](public/image2.jpg)
+ ![](public/image3.jpg)
+ ![](public/image4.jpg)
+
 Installation
     1.Clone or download this repository:
 
